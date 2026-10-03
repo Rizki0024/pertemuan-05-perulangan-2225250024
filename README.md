@@ -17,8 +17,9 @@ pertemuan-05-perulangan-NIM/
 │   ├── 02_jumlah_bilangan.py
 │   ├── 03_validasi_input.py
 │   └── 04_hitung_genap.py
-└── praktik/
-    └── kuis2_deret_aritmetika.py
+│── praktik/
+│   └── kuis2_deret_aritmetika.py
+└── kuis_formatif_pertemuan_5
 
 ## Cara Menjalankan Program
 Pastikan Python sudah terpasang dan terminal berada pada folder utama project.
